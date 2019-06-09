@@ -1,10 +1,11 @@
 # -- IMPORT -- #
-import bcrypt
 import json
-import passpwnedcheck.pass_checker as passwordcheck
 import select
 import socket
 import sys
+
+import bcrypt
+import passpwnedcheck.pass_checker as passwordcheck
 
 # -- CONSTANTES, VARIABLE ET PARAMS -- #
 # Compte par défaut, admin chatappadmin

@@ -1,6 +1,6 @@
 # -- IMPORT -- #
-import json
 import getpass
+import json
 import socket
 import sys
 import threading
