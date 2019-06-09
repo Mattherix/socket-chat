@@ -14,6 +14,9 @@ ou
 ```
 pip3 install -r /path/to/requirements.txt
 ```
+### Note
+Quelque comptes sont présent de base dans user.json
+
 ### Liens des github des lib
 Ce sont des bibliothéques très pratiques et bien pensées.<br>
 N'hésitez pas supporter leurs travail.<br><br>
