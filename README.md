@@ -8,11 +8,11 @@ Le serveur et le client communique grâce à des dictionnaires python.
 ## Installation
 Installer les dépendances grâce à pip
 ```
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 ```
 ou
 ```
-pip3 install -r /path/to/requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Liens des github des lib
